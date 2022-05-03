@@ -1,1 +1,1 @@
-# del-template
+# node-red-contrib-template
