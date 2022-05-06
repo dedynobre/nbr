@@ -1,1 +1,1 @@
-### Template to generate Node-RED node from subflow
+# Node template for Node-RED
